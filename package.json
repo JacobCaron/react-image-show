@@ -2,7 +2,7 @@
   "name": "react-image-show",
   "version": "0.3.4",
   "description": "React image slide show, support fixed or dynamic images height",
-  "main": "build/index.js",
+  "main": "src/index.js",
   "scripts": {
     "dev": "webpack-dev-server --config webpack.config.dev.js",
     "dev-build": "webpack --config webpack.config.dev.js",
